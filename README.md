@@ -10,3 +10,5 @@ Below: Image of the analysis of the models used to extract the stationarity of t
 Below: Image of the model with predictions of the final models:
 ![image](https://github.com/smstewart1/RForBikeSharingData/assets/107202785/1dfda578-6840-4005-82d2-9afd216d55d6)
 
+The webpage generated can be found here: https://rpubs.com/smstewart1/1067702
+
